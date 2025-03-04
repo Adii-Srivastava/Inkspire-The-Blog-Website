@@ -1,8 +1,5 @@
-# React + Vite
+Inkspire:
+Full-stack blog management platform using React for the frontend and Appwrite as the backend service. Implemented user authentication for secure access and role-based permissions. Used React Hook Form for efficient form handling and React Router for seamless navigation. Integrated TinyMCE as a real-time text editor to enhance the blogging experience.
+Developed a full-stack blog management platform using React for the frontend and Appwrite as the backend service. Implemented user authentication for secure access and role-based permissions. Used React Hook Form for efficient form handling and React Router for seamless navigation. Integrated TinyMCE as a real-time text editor to enhance the blogging experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Skills: React.js · Node.js · redux · Appwrite · Tailwind CSS
